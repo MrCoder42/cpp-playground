@@ -6,16 +6,16 @@
  * Date:    10 Februrary 2026
  *
  * Description:
- *      Program to check whether the compiler is working properly.
+ * Program to check whether the compiler is working properly.
  *
  * Compile and Execute (Manual):
- *      mkdir -p ./build && \
- *      clang++ -std=c++20 ./src/tester.cpp -o ./build/tester && \
- *      ./build/tester
+ * mkdir -p ./build && \
+ * clang++ -std=c++20 ./src/tester.cpp -o ./build/tester && \
+ * ./build/tester
  *
  * Make (Recommended):
- *      make run file=hello_tester.cpp
- *      make clean
+ * make run file=hello_tester.cpp
+ * make clean
  *
  */
 
