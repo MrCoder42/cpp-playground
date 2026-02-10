@@ -4,6 +4,9 @@
  * Date:    10 Februrary 2026
  *
  * Program to test whether the compiler is working properly.
+ *
+ * This code is UNLICENSED (public domain).
+ * See UNLICENSE file for details.
  */
 
 #include <iostream>
