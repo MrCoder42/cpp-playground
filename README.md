@@ -27,3 +27,4 @@ make clean
 
 ## References
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+* [W3Schools C++ Tutorial](https://www.w3schools.com/cpp/default.asp)
