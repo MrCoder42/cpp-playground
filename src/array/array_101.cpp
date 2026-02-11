@@ -27,6 +27,10 @@ int main() {
     car_sales[3] = 17;
     car_sales[4] = 6;
 
+    // Modify the element
+    car[3] = "Ford";
+    car[4] = "Ferrari";
+
     std::cout << "––– Getting started with Arrays ---" << std::endl;
 
     for (int i = 0; i < 5; i++) {
